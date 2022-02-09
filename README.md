@@ -30,7 +30,7 @@ Antwort:
 // Hier deine Antwort
 ```
 
-### 3. Finde alle unter mit genau 25 Jahren
+### 3. Finde alle mit genau 25 Jahren
 Finde alle Personen, deren Alter genau **25** ist.
 
 Antwort:
