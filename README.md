@@ -10,7 +10,9 @@ Schaue dir die Daten gründlich an.
 ## Daten finden
 Schreibe ein Query für jede Aufgabe.  
 Das fertige Query kannst du hier als Antwort einfügen.  
-Hilfe: [MongoDB Referenz](https://docs.mongodb.com/manual/reference/operator/query/#projection-operators)
+Hilfe:
+[MongoDB Query](https://docs.mongodb.com/manual/tutorial/query-documents/)  
+[MongoDB Operatoren](https://docs.mongodb.com/manual/reference/operator/query/#projection-operators)
 
 ### 1. Finde Angelo
 Finde nur die Person mit dem Namen **Angelo**
