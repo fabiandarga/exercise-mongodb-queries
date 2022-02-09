@@ -76,3 +76,19 @@ Antwort:
 ```json
 // Hier deine Antwort
 ```
+
+### 9. Finde alle die Football mögen
+Finde alle Personen, die Football (**football**) in der Liste ihrerer Hobbies haben.
+
+Antwort:
+```json
+// Hier deine Antwort
+```
+
+### 10. Finde alle die Filme mögen und Über 20 sind
+Finde alle Personen, die Filme (**movies**) in der Liste ihrerer Hobbies haben **und** aälter sind als **20** Jahre.
+
+Antwort:
+```json
+// Hier deine Antwort
+```
