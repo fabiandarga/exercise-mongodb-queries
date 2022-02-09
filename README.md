@@ -5,11 +5,12 @@
 * importiere dann die Datei
 
 ## Daten untersuchen
-Schaue dir die Date gründlich an.
+Schaue dir die Daten gründlich an.
 
 ## Daten finden
-Schreibe ein Query für jede Aufgabe.
-Das fertige Query kannst du hier als Antwort einfügen.
+Schreibe ein Query für jede Aufgabe.  
+Das fertige Query kannst du hier als Antwort einfügen.  
+Hilfe: [MongoDB Referenz](https://docs.mongodb.com/manual/reference/operator/query/#projection-operators)
 
 ### 1. Finde Angelo
 Finde nur die Person mit dem Namen **Angelo**
